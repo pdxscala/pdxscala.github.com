@@ -1,0 +1,38 @@
+<item>
+	<title>PDXScala meeting, Thursday, 8/19, 7PM at Jive Software</title>
+	<link>http://pdxscala.org/pdxscala-meeting-thursday-819-7pm-at-jive-sof</link>
+	<pubDate>Tue Aug 17 10:59:00 -0700 2010</pubDate>
+	
+	<dc:creator><![CDATA[Thomas Lockney]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://pdxscala.org/pdxscala-meeting-thursday-819-7pm-at-jive-sof</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><a href="http://calagator.org/events/1250459127">http://calagator.org/events/1250459127</a></p>
+<p>Come join fellow Scala hackers and enthusiasts. The guest speaker for this meeting will be Peat Bakke:</p>
+<blockquote class="posterous_medium_quote"><strong>Scala, Circumflex, and MongoDB</strong>
+<p>Or, why writing everything from scratch is a great way to learn a language, but a terrible way to be productive.</p>
+<p>This is about an ongoing Scala project -- a part of the Capacity product planning and resource management system. We'll be looking at a few parts of the system, a homebrew ORM for MongoDB, and the guts behind the scenes that handles the calculations, and the Circumflex-based JSON web service.</p>
+<p>The goal of building these from scratch was to learn, and it continues to be an experiment, so I'm looking forward to everyone's feedback on how to make it better!</p>
+</blockquote>]]></content:encoded>
+	<excerpt:encoded><![CDATA[http://calagator.org/events/1250459127 Come join fellow Scala hackers and enthusiasts. The guest speaker for this meeting will be Peat Bakke: Scala, Circumflex, and MongoDB Or, why writing everything from scratch is a great way to learn a language...]]></excerpt:encoded>	
+
+	<wp:post_date>Tue Aug 17 10:59:00 -0700 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>pdxscala-meeting-thursday-819-7pm-at-jive-sof</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

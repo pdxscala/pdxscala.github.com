@@ -1,0 +1,37 @@
+<item>
+	<title>PDXScala meeting, Thursday, 6/17, 7PM at Jive Software</title>
+	<link>http://pdxscala.org/pdxscala-meeting-thursday-617-7pm-at-jive-sof</link>
+	<pubDate>Thu Jun 17 13:13:00 -0700 2010</pubDate>
+	
+	<dc:creator><![CDATA[Thomas Lockney]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://pdxscala.org/pdxscala-meeting-thursday-617-7pm-at-jive-sof</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p><a href="http://calagator.org/events/1250458760" target="_blank">http://calagator.org/events/1250458760</a><p />  Come join us for another gathering of PDXScala, graciously hosted by Jive Software. We'll be meeting at 7PM, June 17th, and Steven Osborn will be talking about his experiences developing for Android using Scala.</p>
+<blockquote>
+<p>Interested in Android Mobile OS development, but want to be able to program in Scala? Well you can have your cake and eat it too. Steven will give a high level overview of the Android development platform along with his experiences using SBT along the SBT Android plugin to rapidly develop Android applications. We'll cover everything from setting up your project, running your hello world application, and testing.</p>
+<p>Steven is the CTO of Urban Airship, a local mobile messaging and content deliver company providing easy to use, cross-platform web services for iPhone, Blackberry and Android. With nearly a decade of experience in the industry he has participated in all stages of a software company from startup to acquisition. Steven enjoys participating in open source development and has contributed significant amounts of code to projects, including Android OpenIntents and IDiB (Identity In The Browser). Steven is also an accomplished Guitar Hero rockstar and believes strongly that ideas are worthless and execution is everything.</p>
+</blockquote>
+<p>If you have other topics you'd like to discuss or just want to come hear how others are using Scala, please come join us. There is always plenty of opportunity for open discussions and mini-presentations.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[http://calagator.org/events/1250458760 Come join us for another gathering of PDXScala, graciously hosted by Jive Software. We'll be meeting at 7PM, June 17th, and Steven Osborn will be talking about his experiences developing for Android using Sca...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu Jun 17 13:13:00 -0700 2010</wp:post_date>
+	<wp:post_date_gmt>%= display_date %></wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_name>pdxscala-meeting-thursday-617-7pm-at-jive-sof</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>
