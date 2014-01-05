@@ -7,7 +7,7 @@ tags: ["pdxscala", "meeting"]
 ---
 {% include JB/setup %}
 
-Come join other Scala fans, whether you are a seasoned oldtimer or complete beginner. We will have open discussions and a variety of presentations and examples. If you have topics you are interested in hearing more about or something you would like to give a presentation on, please let us know! Also, feel free to bring code you would like to show off or get input on from the rest of the group!
+Come join other Scala fans, whether you are a seasoned old-timer or complete beginner. We will have open discussions and a variety of presentations and examples. If you have topics you are interested in hearing more about or something you would like to give a presentation on, please let us know! Also, feel free to bring code you would like to show off or get input on from the rest of the group!
 
 This month, [Susan Potter](http://susanpotter.net/) will show a couple of motivating examples of Scalaz usage showing how thinking more functionally can yield less complex code. More details on other talks and possible discussion topics will be coming shortly. If you have a topic you would like to discuss or present on, let us know [on the mailing list](https://groups.google.com/forum/#!forum/pdxscala) or ping [@tlockney](https://twitter.com/tlockney) on Twitter. 
 
