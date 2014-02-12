@@ -9,7 +9,7 @@ tags: ["pdxscala", "meeting"]
 
 Come join other Scala fans, whether you are a seasoned old-timer or complete beginner. We will have open discussions and a variety of presentations and examples. If you have topics you are interested in hearing more about or something you would like to give a presentation on, please let us know! Also, feel free to bring code you would like to show off or get input on from the rest of the group!
 
-This month we're excited to have [Rob Norris](https://twitter.com/tpolecat) present some fancy stuff about scalacheck or zippers or something. Notes for this month's talk(s) are taken on [etherpad](http://etherpad.stumptownsyndicate.org/p/02-2014-pdxscala).
+This month we're excited to have [Rob Norris](https://twitter.com/tpolecat) present on [zippers](http://en.wikipedia.org/wiki/Zipper_(data_structure%29), a technique for navigating (and updating) data structures. Notes for this month's talk(s) are taken on [etherpad](http://etherpad.stumptownsyndicate.org/p/02-2014-pdxscala).
 
 If you have a topic you would like to discuss or present on, let us know [on the mailing list](https://groups.google.com/forum/#!forum/pdxscala) or bring it up at a meeting.
 
